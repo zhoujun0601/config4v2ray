@@ -18,7 +18,7 @@ yourdomain {
     reverse_proxy @v2ray_websocket localhost:8488 #v2ray运行端口
 }
 ```
-#v2ray vless 配置文件
+# v2ray vless 配置文件
 ```
 {
   "inbounds": [
