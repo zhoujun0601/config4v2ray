@@ -1,9 +1,4 @@
-halo.mars1.eu.org { 
-reverse_proxy   127.0.0.1:8090
-}
-
-
-cloudreve.mars1.eu.org {
+domain {
     log {
         output file /etc/caddy/caddy.log
     }
